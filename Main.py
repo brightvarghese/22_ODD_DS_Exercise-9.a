@@ -1,6 +1,6 @@
 from typing import List
 
-def merge_sort(array) -> None:
+def merge_sort(data) -> None:
   # Write code here
 
 
